@@ -1,0 +1,27 @@
+{
+  "name": "AlphaID",
+  "version": "0.0.1",
+  "description": "Alpha-numeric Indexes creation.",
+  "main": "index.js",
+  "private":false,
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marceloboeira/AlphaID"
+  },
+  "keywords": [
+    "alphaid",
+    "id",
+    "alpha",
+    "alpha-id",
+    "AlphaID"
+  ],
+  "author": "Marcelo Boeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marceloboeira/AlphaID/issues"
+  },
+  "homepage": "https://github.com/marceloboeira/AlphaID"
+}

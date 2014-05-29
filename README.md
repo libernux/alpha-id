@@ -1,4 +1,4 @@
-alpha-id
+AlphaID
 ========
 
-AlphaID to Node.js
+AlphaID is a simple module do Create Alpha-numeric Indexes to Node.js
