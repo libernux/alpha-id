@@ -1,6 +1,6 @@
 {
   "name": "alpha-id",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Alpha-numeric Indexes creation.",
   "main": "index.js",
   "private":false,

@@ -84,7 +84,9 @@ Found a bug? Have any suggestion? Please [open an issue!](https://github.com/mar
 
 ### Versions 
 
-* [0.0.1](https://github.com/marceloboeira/alpha-id/releases/tag/v0.0.1) - Current Version - [Download Source Code](https://github.com/marceloboeira/alpha-id/archive/v0.0.1.tar.gz)
+* [0.0.3](https://github.com/marceloboeira/alpha-id/releases/tag/v0.0.3) - Current Version - [Download Source Code](https://github.com/marceloboeira/alpha-id/archive/v0.0.3.tar.gz)
+
+
 
 ### RoadMap 
 
